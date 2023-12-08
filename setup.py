@@ -1,17 +1,11 @@
 #!/data/data/com.termux/files/usr/bin/python
-
-import os
-
+from os import system
 class BASE:
 	LINK = "https://raw.githubusercontent.com/devwithsd/tool-manager/main"
 
-
 ## installation part...
 print("Installing, please wait patiently...")
-print()
-os.system("wget " + BASE.LINK + "/tool.py -O $PREFIX/bin/tool -q")
-os.system("wget " + BASE.LINK + "/registry.ini -O ~/registry.ini -q")
-print()
-print()
-print("Successfully installed, run 'tool -i' command.")
+system("wget -q " + BASE.LINK + "/tool.py -O $PREFIX/bin/tool")
+system("wget -q " + BASE.LINK + "/registry.ini -O ~/registry.ini")
+print("Successfully installed, run 'tool -i' command for more informations.")
 exit()
