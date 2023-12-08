@@ -97,4 +97,4 @@ __That's all. It currently supports in `termux` environment. If this project get
 
 
 ## Conclusion
-__This is my first project, so it's a bit silly. So, forgive me for it. I have worked for 2 days. But if you help me, I can make it more flexible and advanced. Give it a star if you like my idea and sorry for my bad `English` grammar. If you're using it, so many thanks to you, let me know that you are a user of this tool at my `Gmail` address. And, till then, goodbye 👋.__
+__This is my first project, so it's a bit silly 😞. So, forgive me for it. I have worked for 2 days. But if you help me, I can make it more flexible and advanced. Give it a star if you like my idea and sorry for my bad `English` grammar. If you're using it, so many thanks to you, let me know that you are a user of this tool at my `Gmail` address. And, till then, goodbye 👋😉!__
