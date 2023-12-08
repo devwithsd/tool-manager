@@ -24,7 +24,7 @@ __Run those commands one by one. (only in `termux`)__
 pkg --check-mirror install python wget -y
 ```
 ```
-source <(curl -fsSL https://raw.githubusercontent.com/devwithsd/tool-manager/main/setup.py)
+python <(curl -fsSL https://raw.githubusercontent.com/devwithsd/tool-manager/main/setup.py)
 ```
 __If one of any command fails, then copy, paste and run them from the start.__
 
